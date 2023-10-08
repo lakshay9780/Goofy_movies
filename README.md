@@ -1,2 +1,2 @@
 # Goofy_movies
-The website recommends and helps you watch movies similar to your interests saving your scroll time at less cost also providing incentives at different levels
+Goofy movies is a ott platform website which recommends users movies similar to their interests and and helps them watch it at a very minimal price. at the start the user will be able to watch some comfort movies for free and in the future it will recommend to the user movies of same domain. the website also allows interactive feature including polls, community clubs. Also incentuves are there to increase traffic through alloting points to the users on watching a movies on completion of 50 and 100 points respective rewards will be given to maintain customer .
